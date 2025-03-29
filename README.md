@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @sharma123ji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there! 👋 I'm Chirag Sharma
 
-<!---
-sharma123ji/sharma123ji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer exploring the world of Web Development and Blockchain.
+
+🚀 Skills & Technologies
+
+🌐 Web Development
+
+   
+
+⛓️ Blockchain & Backend
+
+  
+
+📊 GitHub Stats
+
+
+
+📫 Let's Connect
+
+ 
+
+Thanks for visiting! 😃
+
